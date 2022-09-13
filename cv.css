@@ -1,0 +1,78 @@
+body{
+	background-color: grey;
+}
+
+.page{
+	width: 780px;
+	margin: auto;
+	font-family:'Source sans Pro', Calibri, tahoma, sans-serif;
+	font-size: 16px;
+	border: 5px solid #3388CC;
+	border-radius: 10px;
+	box-shadow: 2px 3px 4px black;
+	padding: 20px;
+	background-color: white;
+}
+
+.infophoto{
+	height: 250px;
+}
+
+.info{
+	float: left;
+	
+}
+
+.info img{
+	float: left;
+	width: 20px;
+	height: 20px;
+	margin: 2px;
+}
+
+.photo{
+	float: right;
+}
+
+.photo img{
+	width: 150px;
+	height: 240px;
+	border: 2px solid #3388DD;
+	border-radius: 10px;
+	box-shadow: 1px 2px 3px black;
+	padding: 5px;
+}
+
+.section{
+	margin-bottom: 70px;
+	text-align: justify:
+}
+
+.sec-gauche{
+	float: left;
+	font-weight: bold;
+	font-size: 15px;
+}
+
+.sec-droite{
+	margin-left: 150px;
+	margin-top: 33px;
+}
+
+h2{
+	font-size: 28px;
+	color: #3388BB;
+	border-bottom: 3px solid #3388DD;
+}
+
+#forma-gauche p{
+	margin-bottom: 35px;
+}
+
+#exp-gauche p{
+	margin-top: 15px;
+}
+
+
+
+
